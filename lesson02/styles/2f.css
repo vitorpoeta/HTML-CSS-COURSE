@@ -1,0 +1,32 @@
+.title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.in-stock {
+    font-weight: bold;
+    color: rgb(0, 118, 0);
+}
+
+.amazon-ref{
+    color: rgb(0, 113, 133);
+}
+
+.add-cart-button {
+    background-color: rgb(255, 216, 20);
+    height: 32px;
+    width: 120px;
+    border-radius: 16px;
+    border: none;
+    margin-right: 10px;
+    font-size: 13px;
+}
+
+.buy-now-button {
+    background-color: rgb(255, 164, 28);
+    height: 32px;
+    width: 120px;
+    border-radius: 16px;
+    border: none;
+    font-size: 13px;
+}

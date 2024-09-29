@@ -1,0 +1,56 @@
+.title {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.in-stock {
+    font-weight: bold;
+    color: rgb(0, 118, 0);
+}
+
+.amazon-ref{
+    color: rgb(0, 113, 133);
+}
+
+.amazon-ref:hover{
+    color: rgb(165, 3, 3);
+}
+
+.add-cart-button {
+    background-color: rgb(255, 216, 20);
+    height: 32px;
+    width: 120px;
+    border-radius: 16px;
+    border: none;
+    margin-right: 10px;
+    font-size: 13px;
+    transition: opacity 0.2s,
+    background-color 0.2s;
+}
+
+.add-cart-button:hover {
+    background-color: rgb(255, 192, 20);
+}
+
+.add-cart-button:active {
+    opacity: 0.6;
+}
+
+.buy-now-button {
+    background-color: rgb(255, 164, 28);
+    height: 32px;
+    width: 120px;
+    border-radius: 16px;
+    border: none;
+    font-size: 13px;
+    transition: opacity 0.2s,
+    background-color 0.2s;
+}
+
+.buy-now-button:hover {
+    background-color: rgb(255, 145, 0);
+}
+
+.buy-now-button:active {
+    opacity: 0.6;
+}
