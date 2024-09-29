@@ -1,0 +1,31 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 300px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 11px;
+    margin-bottom: 6px;
+}
+
+.username {
+    color: grey;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+.text-one {
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.text-two {
+    font-size: 10px;
+}
+
+.username-tagged {
+    color: rgb(46, 137, 255);
+}
