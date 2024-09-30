@@ -1,0 +1,31 @@
+
+.image-tree {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.text-tweet {
+    color: gray;
+    font-family: Arial;
+    font-size: 15px;
+    vertical-align: middle;
+    border: none;
+    margin-left: 10px;
+    width: 200px;
+}
+
+.button-tweet {
+    font-family: Arial;
+    border: none;
+    color: white;
+    font-size: 10px;
+    border-radius: 20px;
+    padding: 6px 10px;
+    font-weight: bold;
+    background-color: rgb(46, 128, 252);
+    vertical-align: middle;
+}

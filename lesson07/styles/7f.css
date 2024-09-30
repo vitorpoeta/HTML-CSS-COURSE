@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 8px;
+    color: rgb(104, 104, 104);
+}
+
+.input-text {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border-width: 1px;
+    padding: 5px 10px;
+    font-size: 8px;
+    border-radius: 2px;
+    border-color: black;
+    width: 230px;
+}
+
+.button-agree {
+    margin-top: 15px;
+    padding: 10px 20px;
+    width: 250px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(66, 121, 202);
+}
