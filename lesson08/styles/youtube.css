@@ -1,0 +1,19 @@
+.thumbnail {
+    width: 300px;
+}
+
+.search-bar {
+    font-size: 20px;
+}
+
+.video-title {
+    width: 300px;
+}
+
+.video-author {
+    color: gray;
+}
+
+.video-stats {
+    color: gray;
+}
