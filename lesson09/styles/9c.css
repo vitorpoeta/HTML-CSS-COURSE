@@ -1,0 +1,11 @@
+.container {
+    width: 200px;
+    height: 80px;
+    padding: 5px 20px;
+    border-style: solid;
+    border-color: rgb(190, 190, 190);
+    border-width: 1px;
+}
+button {
+    font-size: 10px;
+}
