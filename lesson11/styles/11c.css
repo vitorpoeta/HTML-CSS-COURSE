@@ -1,0 +1,22 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+.column1 {
+    background-color: rgb(74, 74, 224);
+}
+
+.column2 {
+    background-color: fuchsia;
+}
+
+.column3 {
+    background-color: brown;
+}
+
+.column4 {
+    background-color: rgb(245, 26, 26);
+}

@@ -1,0 +1,17 @@
+.grid {
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+    font-size: 10px;
+}
+
+.column1 {
+    background-color: rgb(74, 74, 224);
+}
+
+.column2 {
+    background-color: fuchsia;
+}
+
+.column3 {
+    background-color: brown;
+}

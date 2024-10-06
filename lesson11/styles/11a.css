@@ -1,0 +1,12 @@
+.grid {
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+
+.maior {
+    background-color: rgb(74, 74, 224);
+}
+
+.menor {
+    background-color: fuchsia;
+}
