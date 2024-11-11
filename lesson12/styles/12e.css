@@ -1,0 +1,57 @@
+.container-flex{
+    display: flex;
+    width: 300px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgba(104, 101, 101, 0.4);
+}
+
+.numbers{
+    display: flex;
+    flex-direction: column;
+}
+.div1{
+    margin-bottom: 5px;
+    width: 250px;
+}
+
+.div2{
+    margin-bottom: 5px;
+    width: 250px;
+}
+
+.div3{
+    width: 250px;
+}
+
+.div4{
+    margin-bottom: 5px;
+    width: 25px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: rgb(56, 117, 231);
+    border-radius: 10px;
+    color: white;
+}
+
+.div5{
+    margin-bottom: 5px;
+    width: 25px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: rgb(56, 117, 231);
+    border-radius: 10px;
+    color: white;
+}
+
+.div6{
+    width: 25px;
+    padding-left: 10px;
+    background-color: rgb(56, 117, 231);
+    border-radius: 10px;
+    padding-right: 5px;
+    color: white;
+} 
+

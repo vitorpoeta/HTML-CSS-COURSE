@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.div1{
+    background-color: aqua;
+    width: 200px;
+}
+
+.div2{
+    background-color: yellow;
+    width: 75px;
+}
